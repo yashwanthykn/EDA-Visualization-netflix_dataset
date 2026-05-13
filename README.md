@@ -1,10 +1,10 @@
-#Netflix Data Analysis 📺
+# Netflix Data Analysis 📺
 
-##Project Overview
+## Project Overview
 
 This project performs data cleaning, preprocessing, exploratory data analysis (EDA), and visualization on the Netflix Movies and TV Shows dataset using Python.
 
-##The analysis focuses on:
+## The analysis focuses on:
 
 Handling missing values
 Cleaning inconsistent data
@@ -18,7 +18,7 @@ Pandas
 NumPy
 Matplotlib
 
-###Dataset Information
+### Dataset Information
 
 The dataset contains information about Netflix Movies and TV Shows including:
 
@@ -39,7 +39,7 @@ Date Added
 12 columns
 
 
-###Data Cleaning
+### Data Cleaning
 
 Several preprocessing and cleaning steps were performed to improve data quality.
 
@@ -93,7 +93,7 @@ October, November, and December showed higher upload activity.
 2019 and 2020 were peak years for content additions.
 Most Popular Movie Genres
 
-###The most common movie genres were:
+### The most common movie genres were:
 
 International Movies
 Dramas
@@ -127,7 +127,7 @@ Key Findings
 Netflix rapidly expanded its content library during these years.
 Country-Based Analysis
 
-###Top countries contributing Netflix content:
+### Top countries contributing Netflix content:
 
 United States
 India
