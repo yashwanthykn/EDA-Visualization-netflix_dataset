@@ -1,4 +1,4 @@
-Netflix Data Analysis 📺
+**Netflix Data Analysis 📺
 Project Overview
 
 This project performs data cleaning, preprocessing, exploratory data analysis (EDA), and visualization on the Netflix Movies and TV Shows dataset using Python.
